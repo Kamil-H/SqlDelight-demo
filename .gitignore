@@ -1,0 +1,12 @@
+.gradle/
+/.idea
+/out
+build/
+*.iml
+*.ipr
+*.iws
+/match_reports
+/exceptions
+.DS_Store
+*.db
+/data_files
