@@ -13,6 +13,7 @@ dependencies {
     implementation(project(":moduleA"))
     implementation(project(":moduleB"))
     implementation("com.squareup.sqldelight:runtime:1.5.3")
+    implementation("com.squareup.sqldelight:sqlite-driver:1.5.3")
     testImplementation(kotlin("test"))
 }
 
